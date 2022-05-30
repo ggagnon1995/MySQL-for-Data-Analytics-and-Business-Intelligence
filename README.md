@@ -1,6 +1,6 @@
 # Course Notes on SQL Course
 
-If you wish to browse through what I've learned, feel free to download these files and check it out for yourself!
+The files contain all of the notes and problems solved throughout this course. The purpose of taking this course is to upskill and learn the basics of MySQL. Since many data analyst positions require this knowledge I felt it was worth having. 
 
 You can download the employees database here: 
 
